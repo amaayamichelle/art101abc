@@ -1,0 +1,11 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: tan;
+    padding: 25px;
+    font-size: 120%;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
