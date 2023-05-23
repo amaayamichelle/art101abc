@@ -15,3 +15,9 @@ body {
     padding: 25px;
     font-size: 120%;
 }
+
+.box {
+    width: 20px;
+    height: 20px;
+    border: 1px solid rgba(0, 0, 0, .2);
+  }
