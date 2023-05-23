@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(217, 154, 251);}
+    background-color: rgb(217, 154, 251);
+}
 #demobox {
     background-color: #cfc ;
     padding: 10px ;
@@ -10,5 +11,7 @@ body {
     margin: 8px;
     }
 body {
-font-family: Helvetica, Verdana, Arial, "san serif";
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    padding: 25px;
+    font-size: 120%;
 }
